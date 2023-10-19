@@ -393,6 +393,7 @@
     "rightColumn": 34,
     "textSize": "0.875rem",
     "widgetId": "1j1edk7c2d",
+    "enableServerSideFiltering": false,
     "minWidth": 450,
     "tableData": "{{Query1.data}}",
     "label": "Data",
